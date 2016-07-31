@@ -20,16 +20,14 @@ keywords:
 description: 'New Gigs in Kamo-gun, Shizuoka, London,'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://gigs.gigatools.com/u/JayOM'
 title: Jay OM 's Upcoming Gigs
-datePublished: '2016-07-31T20:52:45.328Z'
-dateModified: '2016-07-31T20:50:19.043Z'
+datePublished: '2016-07-31T21:13:06.844Z'
+dateModified: '2016-07-31T21:13:06.398Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-31-jay-om-s-upcoming-gigs.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: jay-om-s-upcoming-gigs/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

@@ -64,16 +64,14 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/journeyomsphere'
 title: JayOM ~Journey ~Omsphere
-datePublished: '2016-07-31T20:52:36.923Z'
-dateModified: '2016-07-31T20:50:56.048Z'
+datePublished: '2016-07-31T21:12:20.438Z'
+dateModified: '2016-07-31T21:12:19.952Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-31-jayom-journey-omsphere.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: jayom-~journey-~omsphere/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 

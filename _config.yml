@@ -19,3 +19,6 @@ navigation:
   - name: Sounds
     id: f54788a2-df90-4454-a29a-0ddd3a709be8
     type: content
+  - name: Upcoming Gigs
+    id: ead07041-82e6-47e2-9580-55f59e5068ad
+    type: content

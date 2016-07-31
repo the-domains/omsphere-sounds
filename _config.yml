@@ -1,0 +1,14 @@
+layout_spectrum: 0.4241887303069234
+typography_spectrum: 0.18600340886041522
+color:
+  brandStrength: 0.505230242619291
+  lightness: 0.1408286294899881
+  saturation: 0.18425049493089318
+  rhythmicContrast: 0.06404213584028184
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Omsphere Sounds

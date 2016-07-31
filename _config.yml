@@ -12,3 +12,7 @@ color:
     - '#45483F'
     - '#84887A'
 name: Omsphere Sounds
+navigation:
+  - name: Biography
+    id: 29ccdf35-498a-409f-87e9-821aa72b6403
+    type: content

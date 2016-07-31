@@ -16,3 +16,6 @@ navigation:
   - name: Biography
     id: 29ccdf35-498a-409f-87e9-821aa72b6403
     type: content
+  - name: Sounds
+    id: f54788a2-df90-4454-a29a-0ddd3a709be8
+    type: content

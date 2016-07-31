@@ -1,4 +1,3 @@
-layout_spectrum: 0.4241887303069234
 typography_spectrum: 0.18600340886041522
 color:
   brandStrength: 0.505230242619291
@@ -11,6 +10,7 @@ color:
     - '#C4C4C4'
     - '#45483F'
     - '#84887A'
+layout_spectrum: 0.4241887303069234
 name: Omsphere Sounds
 navigation:
   - name: Biography
@@ -22,3 +22,4 @@ navigation:
   - name: Upcoming Gigs
     id: ead07041-82e6-47e2-9580-55f59e5068ad
     type: content
+title: Omsphere
